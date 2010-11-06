@@ -1,5 +1,7 @@
 ## GEOKIT GEM DESCRIPTION
 
+Fork of the official Geokit Gem that includes multiple results in the "all" attribute of a yahoo geocode,  with the newer yahoo api.
+
 The Geokit gem provides:
 
  * Distance calculations between two points on the earth. Calculate the distance in miles, kilometers, or nautical miles, with all the trigonometry abstracted away by GeoKit.
